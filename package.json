@@ -1,6 +1,6 @@
 {
   "name": "react-dayzee",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "author": "yusufcmlt",
   "main": "dist/main.js",
@@ -35,12 +35,12 @@
     "typescript-eslint": "^8.22.0",
     "vite": "^6.1.0",
     "vite-plugin-dts": "^4.5.0",
-    "vite-plugin-lib-inject-css": "^2.2.1"
+    "vite-plugin-lib-inject-css": "^2.2.1",
+    "tailwindcss": "^4.0.6",
+    "@tailwindcss/vite": "^4.0.6"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.0.6",
-    "dayjs": "^1.11.13",
-    "tailwindcss": "^4.0.6"
+    "dayjs": "^1.11.13"
   },
   "engines": {
     "node": ">=16.0.0"
