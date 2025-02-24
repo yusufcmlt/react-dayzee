@@ -1,6 +1,7 @@
 # react-dayzee
 
-A work-in-progress date picker library for React 19. This library is still under development and may have breaking changes.
+A work-in-progress simple date picker library for React  
+⚠️This library is still under development and may have breaking changes.⚠️
 
 ## Installation
 
