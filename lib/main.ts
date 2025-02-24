@@ -8,7 +8,7 @@ import { DatePickerProvider } from "./context/DatePickerContext/DatePickerProvid
 
 import { useDatePicker } from "./context/DatePickerContext/useDatePicker";
 
-export * from "./types/datePickerTypes";
+export * from "./types";
 
 export {
   DatePickerProvider,
