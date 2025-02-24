@@ -1,0 +1,89 @@
+:root {
+  --calendar-font-family: "Chicago", sans-serif;
+
+  --calendar-background-color: #fff;
+
+  /* Calendar Day Select */
+
+  --calendar-day-name-color: #000;
+  --calendar-day-name-text-color: #000;
+  --calendar-day-name-border-color: #000;
+
+  --calendar-day-color: #fff;
+  --calendar-day-text-color: #000;
+  --calendar-day-border-color: #000;
+  --calendar-day-empty-color: #fff;
+  --calendar-day-empty-border-color: transparent;
+
+  --selected-day-color: #000;
+  --selected-day-text-color: #fff;
+  --selected-day-border-color: #000;
+
+  --hover-day-color: #b4b4b4;
+  --hover-day-text-color: #000;
+  --hover-day-border-color: #b4b4b4;
+
+  --today-day-color: #c2c2c2;
+  --today-day-text-color: #000;
+  --today-day-border-color: #c2c2c2;
+
+  --in-hover-range-day-color: #b4b4b4;
+  --in-hover-range-day-text-color: #000;
+  --in-hover-range-day-border-color: #000;
+
+  --start-of-range-day-color: #000;
+  --start-of-range-day-text-color: #fff;
+  --start-of-range-day-border-color: #000;
+
+  --end-of-range-day-color: #000;
+  --end-of-range-day-text-color: #fff;
+  --end-of-range-day-border-color: #000;
+
+  --in-selected-range-day-color: #b4b4b4;
+  --in-selected-range-day-text-color: #fff;
+  --in-selected-range-day-border-color: #000;
+
+  --calendar-displayed-year-border-color: #000;
+
+  /* Calendar Month Select */
+
+  --calendar-month-color: #fff;
+  --calendar-month-text-color: #000;
+  --calendar-month-border-color: #000;
+
+  --current-month-color: #c2c2c2;
+  --current-month-text-color: #fff;
+  --current-month-border-color: #c2c2c2;
+
+  --selected-month-color: #000;
+  --selected-month-text-color: #fff;
+  --selected-month-border-color: #000;
+
+  --hover-month-color: #b4b4b4;
+  --hover-month-text-color: #fff;
+  --hover-month-border-color: #b4b4b4;
+
+  /* Calendar Year Select */
+
+  --calendar-year-color: #000;
+  --calendar-year-text-color: #fff;
+  --calendar-year-border-color: #000;
+
+  --current-year-color: #c2c2c2;
+  --current-year-text-color: #fff;
+  --current-year-border-color: #c2c2c2;
+
+  --selected-year-color: #000;
+  --selected-year-text-color: #fff;
+  --selected-year-border-color: #000;
+
+  --hover-year-color: #b4b4b4;
+  --hover-year-text-color: #fff;
+  --hover-year-border-color: #b4b4b4;
+
+  /* Navigation Button */
+
+  --navigation-button-color: #fff;
+  --navigation-button-text-color: #000;
+  --navigation-button-border-color: #000;
+}
